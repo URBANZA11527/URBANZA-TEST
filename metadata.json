@@ -1,0 +1,7 @@
+{
+  "name": "TEST MARIA HOMES",
+  "description": "An advanced AI tool for Team Maria Homes to generate high-quality product photography prompts for lifestyle, usage, feature highlights, and sizing images using multiple Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
